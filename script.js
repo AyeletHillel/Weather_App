@@ -1,6 +1,6 @@
 // Constatnts and variables 
 
-const API_KEY = "3a54cc9a2fc1dbee7598daf681cddb50"
+const API_KEY = ""
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
 
 // Functions 
