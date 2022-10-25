@@ -2,7 +2,6 @@
 
 #### Technologies Used
 * HTML
-* CSS
 * JavaScript
 * jQuery
 * Open Weather Map API
