@@ -1,6 +1,6 @@
-###Weather App
+### Weather App
 
-####Technologies Used
+#### Technologies Used
 * HTML
 * CSS
 * JavaScript
